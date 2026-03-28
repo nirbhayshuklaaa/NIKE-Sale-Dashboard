@@ -80,3 +80,5 @@ Deploy dashboard to Power BI Service
 
 Contributions are welcome!
 Feel free to fork this repository and improve the dashboard or add new features. 
+
+https://github.com/nirbhayshuklaaa/NIKE-Sale-Dashboard/blob/master/Screenshot%202026-03-28%20214246.png
